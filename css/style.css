@@ -1,3 +1,8 @@
-p{
-	color: yellow;
+p.zouglou{
+	color: #9001D9;
+	background-color : black ;
+}
+
+p.lets{
+	color : purple;
 }
