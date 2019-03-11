@@ -1,6 +1,6 @@
 body{
 	font-family: 'Century Gothic', Calibri, serif;
-	font-size: 13px;
+	font-size: 25px;
 	margin: 0px;
 	padding: 0px;
 	background-color: bisque;
@@ -67,4 +67,11 @@ nav a{
 .menu-dl:hover{
 	border-top: 5px solid #2ecc71;
 	background-color: rgba(204, 255, 204, 0.15);
+}
+.titre-sous{
+	color:#2980b9;
+}
+
+.para-sous{
+	color: #34495e;
 }
