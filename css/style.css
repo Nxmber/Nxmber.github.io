@@ -5,10 +5,15 @@ body{
 	padding: 0px;
 	background-color: bisque;
 }
-img{
+.img-accueil{
+	margin: 175px;
+	padding: 1px;
 	width: 400px;
-	padding: 10px;
-	align: center;
+}
+
+.img-sous{
+	width: 75px;
+	padding: 1px;
 }
 
 h1{
@@ -44,11 +49,6 @@ nav a{
 	color: #FFF;
 }
 
-img{
-	margin: 175px;
-	padding: 1px;
-}
-
 .menu-index:hover{
 	border-top: 5px solid #e44d26;
 	background-color: rgba(228, 77, 38, 0.15);
@@ -62,4 +62,9 @@ img{
 .menu-lien:hover{
 	border-top: 5px solid #f1c40f;
 	background-color:rgba(241, 211, 79, 0.15);
+}
+
+.menu-dl:hover{
+	border-top: 5px solid #2ecc71;
+	background-color: rgba(204, 255, 204, 0.15);
 }
