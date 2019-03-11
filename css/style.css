@@ -75,3 +75,9 @@ nav a{
 .para-sous{
 	color: #34495e;
 }
+
+.li-mail{
+	margin:3px;
+	padding: 6px;
+	border-top:25px;
+}
