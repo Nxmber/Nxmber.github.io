@@ -17,7 +17,7 @@ body{
 }
 
 h1{
-	font-size : 40px;
+	font-size : 50px;
 	font-weight : normal;
 	text-align: center;
 }
@@ -74,10 +74,43 @@ nav a{
 
 .para-sous{
 	color: #34495e;
+	text-align: center;
+	font-size: 35px;
 }
 
 .li-mail{
 	margin:3px;
 	padding: 6px;
 	border-top:25px;
+	text-align: center;
+}
+
+.lien-mail{
+	text-decoration: none;
+}
+
+.li-log{
+	margin:3px;
+	padding: 6px;
+	border-top:25px;
+	text-align: center;
+}
+
+.logo-log{
+	vertical-align : sub;
+	margin-left: auto;
+	margin-right: auto;
+	width: 25px;
+	height: 25px;
+}
+
+.lien-log{
+	text-decoration: none;
+	color: #2c3e50;
+}
+
+.logo-google{
+	vertical-align: sub;
+	width : 40px;
+	height: 25px;
 }
