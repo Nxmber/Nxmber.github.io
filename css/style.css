@@ -126,12 +126,12 @@ nav a{
 	height: 200px;
 }
 
-.liste-groupe{
-	text-align: center;
-}
-
 .nom-photo
 {
 	font-family: 'Poppins', sans-serif;
 	color: #34495e;
+}
+
+.liste-groupe{
+	text-align: center;
 }
