@@ -135,3 +135,7 @@ nav a{
 .liste-groupe{
 	text-align: center;
 }
+
+.lien-dl{
+	text-decoration: none;
+}
