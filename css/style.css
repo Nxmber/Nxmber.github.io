@@ -1,9 +1,10 @@
 body{
-	font-family: 'Century Gothic', Calibri, serif;
+	font-family: 'Poppins', sans-serif;
 	font-size: 25px;
 	margin: 0px;
 	padding: 0px;
 	background-color: #ecf0f1;
+	color: #34495e;
 }
 .img-accueil{
 	margin: 175px;
@@ -24,6 +25,10 @@ h1{
 
 header{
 	height: 100px;
+}
+
+li{
+	list-style: none;
 }
 
 nav{
@@ -70,6 +75,7 @@ nav a{
 }
 .titre-sous{
 	color:#2980b9;
+	font-weight:bold;
 }
 
 .para-sous{
@@ -138,4 +144,32 @@ nav a{
 
 .lien-dl{
 	text-decoration: none;
+	color: #2c3e50;
+	line-height: 250%;
+	font-size: xx-large;
+}
+
+.li-dl{
+	margin:3px;
+	padding: 6px;
+	border-top:25px;
+	text-align: center;
+}
+
+.liste-prob{
+	margin:3px;
+	padding: 6px;
+	border-top:25px;
+	text-align: center;
+}
+
+.nom-pb{
+	font-size: 32px;
+}
+
+.text-pb{
+	text-align: justify;
+	text-align-last: center;
+	margin-left: 300px;
+	margin-right: 300px;
 }
