@@ -114,3 +114,24 @@ nav a{
 	width : 40px;
 	height: 25px;
 }
+
+.groupe {
+	display: inline-block;
+}
+
+.photo-groupe{
+	margin: 35px;
+	padding: 1px;
+	width : 200px;
+	height: 200px;
+}
+
+.liste-groupe{
+	text-align: center;
+}
+
+.nom-photo
+{
+	font-family: 'Poppins', sans-serif;
+	color: #34495e;
+}
