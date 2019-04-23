@@ -82,6 +82,7 @@ nav a{
 	color: #34495e;
 	text-align: center;
 	font-size: 35px;
+	font-weight: bold;
 }
 
 .li-mail{
@@ -172,4 +173,8 @@ nav a{
 	text-align-last: center;
 	margin-left: 300px;
 	margin-right: 300px;
+}
+
+.liste-actu{
+	text-align: center;
 }
