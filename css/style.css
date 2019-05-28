@@ -54,6 +54,10 @@ nav a{
 	color: #FFF;
 }
 
+nav > ul > li:hover a{
+	padding: 15px 30px 20px 30px;
+}
+
 .menu-index:hover{
 	border-top: 5px solid #e44d26;
 	background-color: rgba(228, 77, 38, 0.15);
