@@ -1,6 +1,6 @@
 <?php
 
-    $con = mysqli_connect('remotemysql.com', 'Sk8TvVG4fd', 'DwHwcKAbgg', 'Sk8TvVG4fd'); //premier paramètre va être remplacé par l'url de la base de donnée
+    $con = mysqli_connect('localhost', 'id9358295_admin', 'admin', 'id9358295_colors'); //premier paramètre va être remplacé par l'url de la base de donnée
 
     //vérification que la connexion existe
     if(mysqli_connect_errno())
